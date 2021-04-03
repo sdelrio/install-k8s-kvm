@@ -1,0 +1,3 @@
+#!/bin/bash
+vagrant ssh k8s-1 -- -L6443:localhost:6443
+
